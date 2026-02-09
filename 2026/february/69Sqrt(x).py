@@ -24,7 +24,7 @@
 
 # It’s asking:
 # “What is the largest whole number whose square is less than or equal to x?”
-# Let’s rewrite the examples in human language.
+# Let’s rewrite the examples.
 # Example: x = 8
 # Try numbers:
 # 1 × 1 = 1  ≤ 8
